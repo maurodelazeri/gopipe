@@ -30,5 +30,3 @@ $ BROKERS=192.168.0.35:9092 make run-cont  # should set broker list
 ## References
 
 Based on http://highscalability.com/blog/2015/5/4/elements-of-scale-composing-and-scaling-data-platforms.html
-
-- Image: http://highscalability.com/blog/2015/5/4/elements-of-scale-composing-and-scaling-data-platforms.html
