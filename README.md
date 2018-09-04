@@ -1,6 +1,6 @@
 # gopipe
 
-Example Data Pipeline Architecture written by Go with Kafka
+Data Pipeline in Go with Kafka
 
 ## Development
 
